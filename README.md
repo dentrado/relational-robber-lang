@@ -1,10 +1,10 @@
 # relational-robber-lang
 
-A Clojure library designed to ... well, that part is up to you.
+A core.logic relation for converting to and from [Rövarspråket](https://en.wikipedia.org/wiki/R%C3%B6varspr%C3%A5ket) (the robber language)
 
 ## Usage
 
-FIXME
+See examples in `src/relational_robber_lang/core.clj`
 
 ## License
 
